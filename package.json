@@ -4,6 +4,12 @@
   "description": "Official site of Oscar Leche",
   "author": "Oscar Leche",
   "private": true,
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "4210"
+    }
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

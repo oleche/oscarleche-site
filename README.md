@@ -1,5 +1,7 @@
 # oscarleche-site
 
+[![CircleCI](https://circleci.com/gh/oleche/oscarleche-site.svg?style=svg&circle-token=503050812023daabbeb8348e4c8c25b97db1cd44)](https://circleci.com/gh/oleche/oscarleche-site)
+
 > Official site of Oscar Leche
 
 ## Build Setup
